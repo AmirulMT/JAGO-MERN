@@ -1,0 +1,5 @@
+rencana belajar mern
+- mysql dulu
+- then express
+- then react
+- then node
