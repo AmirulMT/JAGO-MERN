@@ -3,3 +3,4 @@ Jago MERN
  - memahami express js
  - memahami react js
  - memahami node js
+ - membuat website dengan MERN
