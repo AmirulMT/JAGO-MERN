@@ -6,4 +6,5 @@ rencana belajar mern
  * 222
 - then react
 - then node
+ * tambah aaa
  * menguasai module yang dibutuhkan
