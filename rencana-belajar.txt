@@ -2,6 +2,8 @@ rencana belajar mern
 - mysql dulu (kuasai scriptnya)
 - then express
  * module
+ * 111
+ * 222
 - then react
 - then node
  * menguasai module yang dibutuhkan
