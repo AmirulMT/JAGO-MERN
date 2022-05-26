@@ -1,0 +1,6 @@
+rencana belajar mern
+- mysql dulu (kuasai scriptnya)
+- then express
+ * module
+- then react
+- then node
