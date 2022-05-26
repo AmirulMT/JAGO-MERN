@@ -4,4 +4,5 @@ rencana belajar mern
  * module
 - then react
 - then node
+ * tambah aaa
  * menguasai module yang dibutuhkan
