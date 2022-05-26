@@ -1,0 +1,5 @@
+Jago MERN
+ - dapat menguasai mySQL
+ - memahami express js
+ - memahami react js
+ - memahami node js
